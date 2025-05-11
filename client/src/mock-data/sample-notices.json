@@ -1,0 +1,82 @@
+[
+  {
+    "id": "notice-001",
+    "title": "Company Holiday Schedule for 2023",
+    "content": "Please find below the official company holidays for 2023:\n\n- New Year's Day: January 1\n- Martin Luther King Day: January 16\n- Presidents' Day: February 20\n- Memorial Day: May 29\n- Independence Day: July 4\n- Labor Day: September 4\n- Thanksgiving: November 23-24\n- Christmas: December 25-26\n\nIn addition, all employees receive 3 floating holidays to use at their discretion.",
+    "author": "HR Department",
+    "date": "2023-01-05",
+    "priority": "normal"
+  },
+  {
+    "id": "notice-002",
+    "title": "Office Closure Due to Weather",
+    "content": "Due to the severe weather forecast, the main office will be closed tomorrow. All employees are expected to work remotely. Please ensure you have access to all necessary tools and systems to perform your duties.\n\nIf you anticipate any issues working remotely, please contact your direct supervisor immediately.\n\nStay safe and warm!",
+    "author": "Operations Team",
+    "date": "2023-05-08",
+    "priority": "high"
+  },
+  {
+    "id": "notice-003",
+    "title": "New Healthcare Benefits for 2023",
+    "content": "We are excited to announce several enhancements to our healthcare benefits package for 2023:\n\n1. Expanded mental health coverage\n2. New telehealth options with $0 copay\n3. Increased HSA company contribution\n4. Additional vision benefits\n\nEnrollment will begin next month. More details will be provided in the upcoming benefits information sessions.",
+    "author": "HR Department",
+    "date": "2023-02-15",
+    "priority": "normal"
+  },
+  {
+    "id": "notice-004",
+    "title": "Quarterly All-Hands Meeting",
+    "content": "Our Q1 All-Hands meeting will take place on March 30th at 10:00 AM in the main conference room. Remote employees can join via the regular video conference link.\n\nAgenda:\n- Q1 performance review\n- Product roadmap updates\n- Team recognition\n- Q&A session\n\nPlease submit any questions or topics you would like addressed to your department head by March 25th.",
+    "author": "Executive Office",
+    "date": "2023-03-15",
+    "priority": "normal"
+  },
+  {
+    "id": "notice-005",
+    "title": "IT Security Alert - Phishing Attempts",
+    "content": "We have detected an increase in sophisticated phishing attempts targeting our organization. These emails appear to come from executive team members and request unusual actions like wire transfers or gift card purchases.\n\nPlease remember:\n- Verify any unusual requests via phone\n- Check email addresses carefully\n- Never share passwords or security codes\n- Report suspicious emails to the IT department\n\nStay vigilant!",
+    "author": "IT Security Team",
+    "date": "2023-05-08",
+    "priority": "high"
+  },
+  {
+    "id": "notice-006",
+    "title": "New Office Equipment Ordering Process",
+    "content": "Starting June 1st, we are implementing a new process for ordering office equipment and supplies:\n\n1. All requests will be submitted through the new Procurement Portal\n2. Department managers must approve requests over $100\n3. Standard delivery timeframe is 3-5 business days\n4. Rush orders require VP approval\n\nTraining sessions for the new portal will be held next week. Please check your email for the schedule and registration link.",
+    "author": "Procurement Team",
+    "date": "2023-05-20",
+    "priority": "normal"
+  },
+  {
+    "id": "notice-007",
+    "title": "Annual Employee Satisfaction Survey",
+    "content": "Our annual employee satisfaction survey will be launched on July 5th. Your feedback is crucial in helping us create a better workplace for everyone.\n\nThe survey:\n- Takes approximately 15 minutes to complete\n- Is completely anonymous\n- Covers workplace environment, management effectiveness, and company culture\n- Will be open for two weeks\n\nWe achieved an 87% participation rate last year - let's aim for 100% this year!",
+    "author": "People Operations",
+    "date": "2023-06-28",
+    "priority": "normal"
+  },
+  {
+    "id": "notice-008",
+    "title": "System Maintenance - Weekend Downtime",
+    "content": "The IT department will be performing critical system maintenance this weekend. The following systems will be unavailable from Saturday 8:00 PM to Sunday 2:00 AM:\n\n- Email servers\n- CRM system\n- Internal knowledge base\n- VPN access\n\nPlease plan accordingly and complete any urgent work before the maintenance window.\n\nWe apologize for any inconvenience this may cause.",
+    "author": "IT Department",
+    "date": "2023-07-12",
+    "priority": "high"
+  },
+  {
+    "id": "notice-009",
+    "title": "Summer Company Picnic",
+    "content": "We're excited to announce our annual summer picnic!\n\nDate: August 12, 2023\nTime: 12:00 PM - 5:00 PM\nLocation: Riverside Park, Main Pavilion\n\nActivities will include:\n- Catered BBQ lunch\n- Team building games\n- Family activities and face painting\n- Raffle prizes\n\nPlease RSVP by August 1st through the event portal. Family members are welcome!",
+    "author": "Events Committee",
+    "date": "2023-07-20",
+    "priority": "normal"
+  },
+  {
+    "id": "notice-010",
+    "title": "Facilities Update - Parking Garage Renovation",
+    "content": "The west parking garage will be undergoing renovations starting September 5th. The project is expected to last 3 weeks.\n\nDuring this time:\n- Levels 1-2 will be completely closed\n- Alternate parking is available at the East Avenue public lot\n- The company will provide parking vouchers for the public lot\n- Carpooling is encouraged\n\nWe appreciate your patience during these improvements which will include better lighting, security cameras, and electric vehicle charging stations.",
+    "author": "Facilities Management",
+    "date": "2023-08-25",
+    "priority": "normal"
+  }
+]

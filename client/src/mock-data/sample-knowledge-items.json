@@ -1,0 +1,82 @@
+[
+  {
+    "id": "kb-001",
+    "title": "Employee Onboarding Process",
+    "content": "## New Employee Onboarding\n\nThis document outlines the standard onboarding process for new employees.\n\n### Before First Day\n1. Send welcome email with first-day instructions\n2. Prepare workstation and equipment\n3. Set up email account and system access\n4. Assign a buddy/mentor\n\n### First Day\n1. Welcome meeting with HR (9:00 AM)\n2. Office tour and introductions\n3. Complete necessary paperwork\n4. Security badge and access setup\n\n### First Week\n1. Department orientation\n2. Training sessions for core systems\n3. Meet with direct supervisor for role clarification\n4. Introduction to company culture and values\n\n### First Month\n1. Weekly check-ins with manager\n2. Complete all required training modules\n3. 30-day review meeting\n4. Set initial performance goals",
+    "categoryId": "hr",
+    "created": "2023-01-10",
+    "updated": "2023-04-05"
+  },
+  {
+    "id": "kb-002",
+    "title": "VPN Setup Instructions",
+    "content": "## Setting Up Company VPN\n\n### Requirements\n- Company laptop or authorized personal device\n- Internet connection\n- VPN client software\n\n### Installation Steps\n1. Download the VPN client from the IT portal\n2. Install the application with default settings\n3. Launch the VPN client\n4. Enter your company email and password\n5. Select the appropriate server (US-EAST, US-WEST, EU, ASIA)\n6. Click Connect\n\n### Troubleshooting\n- **Connection Failure**: Ensure you are using your network password, not your computer login\n- **Slow Performance**: Try connecting to a different server location\n- **Authentication Error**: Reset your password through the IT portal\n\n### Security Guidelines\n- Always use VPN when working on public WiFi\n- Disconnect when not in use to improve performance\n- Report any unusual behavior to IT security\n\nFor additional assistance, contact the IT Help Desk at extension 1234 or helpdesk@company.com",
+    "categoryId": "tech",
+    "created": "2023-02-18",
+    "updated": "2023-05-22"
+  },
+  {
+    "id": "kb-003",
+    "title": "Expense Report Submission Guidelines",
+    "content": "## Expense Report Guidelines\n\n### Eligible Expenses\n- Business travel (airfare, hotel, ground transportation)\n- Client meals and entertainment\n- Professional development (conferences, courses, certifications)\n- Office supplies when working remotely\n\n### Submission Process\n1. Save all receipts (digital or physical)\n2. Enter expenses in the expense management system within 30 days\n3. Categorize each expense correctly\n4. Attach legible receipt images\n5. Add detailed business purpose for each expense\n6. Submit for manager approval\n\n### Approval Timeline\n- Manager approval: 1-3 business days\n- Finance review: 2-4 business days\n- Reimbursement: Next payroll cycle after approval\n\n### Special Considerations\n- Foreign currency expenses will be converted automatically\n- Expenses over $500 require additional approval\n- Missing receipts require a lost receipt form\n\n### Monthly Deadlines\nAll expenses must be submitted by the 25th of each month to be processed in the current month's accounting period.",
+    "categoryId": "finance",
+    "created": "2023-03-10",
+    "updated": "2023-06-15"
+  },
+  {
+    "id": "kb-004",
+    "title": "Office Printer Setup Guide",
+    "content": "## Connecting to Office Printers\n\n### Available Printers\n- **Main Floor**: HP LaserJet 9050 (BW only)\n- **Marketing Area**: Canon ImageRunner C5255 (Color)\n- **Executive Suite**: HP Color LaserJet M553 (Color)\n\n### Connection Methods\n\n#### Windows\n1. Go to Settings > Devices > Printers & Scanners\n2. Click \"Add a printer\"\n3. Select \"The printer I want isn't listed\"\n4. Choose \"Add a printer using a TCP/IP address\"\n5. Enter the printer IP address (see below)\n6. Follow the prompts to complete setup\n\n#### Mac\n1. Go to System Preferences > Printers & Scanners\n2. Click the + button\n3. Select IP tab\n4. Enter printer IP address\n5. Choose \"HP JetDirect\" for Protocol\n6. Give the printer a name\n7. Click Add\n\n### Printer IP Addresses\n- Main Floor: 192.168.1.101\n- Marketing: 192.168.1.102\n- Executive: 192.168.1.103\n\n### Troubleshooting\nIf you encounter issues, try these steps:\n1. Restart your computer\n2. Verify the printer is powered on\n3. Check network connection\n4. Contact IT if problems persist",
+    "categoryId": "operations",
+    "created": "2023-01-25",
+    "updated": "2023-04-18"
+  },
+  {
+    "id": "kb-005",
+    "title": "Social Media Guidelines",
+    "content": "## Company Social Media Guidelines\n\n### Official Channels\n- Twitter: @CompanyOfficial\n- LinkedIn: Company Official Page\n- Instagram: @CompanyHQ\n- Facebook: /CompanyOfficial\n\n### Posting Guidelines for Department Accounts\n1. **Approval Process**\n   - Content calendar should be approved weekly\n   - Emergency posts require manager approval\n   - Responses to public inquiries must follow response templates\n\n2. **Content Standards**\n   - Professional tone aligned with brand voice\n   - Correct grammar and spelling\n   - High-quality images (1200x628px for shared links)\n   - Properly sized videos (16:9 ratio preferred)\n   - Accessible content (image descriptions, captions)\n\n3. **Restricted Content**\n   - Financial performance or projections\n   - Unreleased products or features\n   - Employee personal information\n   - Customer data or stories without written permission\n   - Political content\n\n### Crisis Response Protocol\nIn case of public relations issues:\n1. Stop all scheduled posts immediately\n2. Notify the Communications Director\n3. Do not engage with negative comments until receiving guidance\n4. Document all relevant social media interactions\n\n### Personal Social Media Guidelines\nWhen identifying as a company employee:\n- Include a disclaimer that views are your own\n- Never share confidential information\n- Be respectful and professional\n- Avoid speaking on behalf of the company unless authorized",
+    "categoryId": "marketing",
+    "created": "2023-02-28",
+    "updated": "2023-05-10"
+  },
+  {
+    "id": "kb-006",
+    "title": "Sales Proposal Template Guide",
+    "content": "## Sales Proposal Best Practices\n\n### Required Components\n1. **Executive Summary**\n   - Client pain points and business challenges\n   - Proposed solution overview\n   - Expected outcomes and benefits\n   - Timeline and investment summary\n\n2. **Client Background**\n   - Company overview and industry position\n   - Current situation analysis\n   - Specific needs and requirements\n   - Decision criteria and success metrics\n\n3. **Solution Details**\n   - Products/services recommended\n   - Implementation approach\n   - Technical specifications\n   - Integration with existing systems\n\n4. **Value Proposition**\n   - ROI analysis\n   - Competitive advantages\n   - Case studies and success stories\n   - Testimonials from similar clients\n\n5. **Implementation Plan**\n   - Project timeline\n   - Resource requirements\n   - Milestones and deliverables\n   - Risk management approach\n\n6. **Pricing and Terms**\n   - Detailed pricing breakdown\n   - Payment schedule\n   - Service level agreements\n   - Contract terms\n\n### Proposal Templates\nAccess approved templates in the Sales Resources folder on the shared drive. Always use the most current version (indicated by date in filename).\n\n### Approval Process\nAll proposals over $50,000 require review by:\n1. Sales Manager\n2. Solution Architect\n3. Finance Representative\n\nSchedule reviews at least 3 business days before client presentation.",
+    "categoryId": "sales",
+    "created": "2023-03-15",
+    "updated": "2023-06-22"
+  },
+  {
+    "id": "kb-007",
+    "title": "Non-Disclosure Agreement Process",
+    "content": "## NDA Workflow and Guidelines\n\n### Types of NDAs\n1. **Standard Mutual NDA**\n   - For general business discussions\n   - Valid for 2 years from signing date\n   - Covers confidential information exchanged by both parties\n\n2. **Product Development NDA**\n   - For discussions related to product development or collaboration\n   - Valid for 3 years from signing date\n   - Includes specific IP protection clauses\n\n3. **Vendor NDA**\n   - For service providers and vendors\n   - Valid for the duration of the engagement plus 1 year\n   - Includes data protection and compliance requirements\n\n### Requesting an NDA\n1. Complete the NDA Request Form on the Legal portal\n2. Specify type of NDA needed and business purpose\n3. Provide third-party contact information\n4. Note any special requirements or modifications needed\n\n### Approval Process\n- Standard NDAs can be executed by Department Directors\n- Modified NDAs require Legal Department review\n- All NDAs with foreign entities require General Counsel approval\n\n### Execution and Filing\n1. NDAs should be signed by authorized signatories only\n2. Fully executed copies must be uploaded to the Legal Document Repository\n3. Reference the NDA ID in all related communication\n\n### Expiration Tracking\nThe Legal Department maintains an NDA tracking system. You will receive an alert 60 days before expiration if renewal may be necessary.",
+    "categoryId": "legal",
+    "created": "2023-04-05",
+    "updated": "2023-07-10"
+  },
+  {
+    "id": "kb-008",
+    "title": "Product Release Checklist",
+    "content": "## Product Release Process\n\n### Pre-Release (T-4 Weeks)\n- [ ] Feature freeze implemented\n- [ ] Release branch created in version control\n- [ ] QA test plan finalized\n- [ ] Documentation updates started\n- [ ] Marketing materials drafted\n- [ ] Release announcement planned\n\n### Testing Phase (T-3 Weeks)\n- [ ] Full regression testing completed\n- [ ] Performance testing completed\n- [ ] Security vulnerability scanning performed\n- [ ] Accessibility compliance verified\n- [ ] Beta testing with select customers started\n- [ ] Known issues documented\n\n### Final Preparation (T-1 Week)\n- [ ] Final build created and tagged\n- [ ] Release notes finalized\n- [ ] Customer support team trained\n- [ ] Documentation published\n- [ ] Deployment plan reviewed\n- [ ] Rollback procedures confirmed\n- [ ] Final stakeholder sign-off obtained\n\n### Release Day\n- [ ] Pre-deployment system backup completed\n- [ ] Deployment to production environments\n- [ ] Smoke testing in production\n- [ ] Customer notification sent\n- [ ] Press release published\n- [ ] Social media announcements posted\n\n### Post-Release\n- [ ] 24-hour monitoring for critical issues\n- [ ] Customer feedback collection initiated\n- [ ] Metrics tracking started\n- [ ] Post-mortem meeting scheduled (T+1 week)\n\n### Special Considerations\nAll releases must adhere to our semantic versioning policy:\n- Major version (x.0.0): Incompatible API changes\n- Minor version (0.x.0): New functionality, backward compatible\n- Patch version (0.0.x): Bug fixes, backward compatible",
+    "categoryId": "product",
+    "created": "2023-05-12",
+    "updated": "2023-08-05"
+  },
+  {
+    "id": "kb-009",
+    "title": "Research Project Documentation Standards",
+    "content": "## Documentation Guidelines for R&D Projects\n\n### Project Initiation Documents\n1. **Project Charter**\n   - Project purpose and objectives\n   - Scope definition\n   - Key stakeholders\n   - Resource requirements\n   - Success criteria\n   - Preliminary timeline\n\n2. **Literature Review**\n   - Current state of relevant research\n   - Competitor analysis\n   - Identified knowledge gaps\n   - Referenced sources (IEEE format)\n\n### Ongoing Documentation\n1. **Lab Notebooks**\n   - Digital lab notebooks should be updated daily\n   - All experiments must include: date, personnel, hypothesis, methods, results, and conclusions\n   - Raw data must be linked or attached\n   - Failed experiments must be documented with potential causes\n\n2. **Progress Reports**\n   - Submitted bi-weekly to project manager\n   - Accomplishments since last report\n   - Current challenges and roadblocks\n   - Plan for next reporting period\n   - Updated timeline if applicable\n\n### Final Deliverables\n1. **Technical Report**\n   - Executive summary\n   - Detailed methodology\n   - Results and analysis\n   - Conclusions and implications\n   - Recommendations for further research\n   - Appendices with supporting data\n\n2. **Patent Disclosure (if applicable)**\n   - Invention description\n   - Novel aspects\n   - Potential applications\n   - Prior art references\n\n### Storage and Retention\nAll project documentation must be stored in the secure R&D repository with appropriate access controls. Documentation must be retained for a minimum of 7 years after project completion.",
+    "categoryId": "research",
+    "created": "2023-06-10",
+    "updated": "2023-08-15"
+  },
+  {
+    "id": "kb-010",
+    "title": "Customer Support Escalation Procedure",
+    "content": "## Customer Support Escalation Matrix\n\n### Tier 1 Support (Initial Contact)\n**Handles:**\n- Basic product questions\n- Account management\n- Simple troubleshooting\n- Documentation requests\n- Feature clarification\n\n**Resolution Time Target:** 1 business day\n\n**Escalation Trigger:** If issue cannot be resolved within 4 hours of initial contact, or requires technical expertise beyond Tier 1 knowledge.\n\n### Tier 2 Support (Technical Specialists)\n**Handles:**\n- Complex technical issues\n- Product bugs and errors\n- Advanced configuration\n- Integration problems\n- Performance issues\n\n**Resolution Time Target:** 2 business days\n\n**Escalation Trigger:** If issue involves product failure, affects multiple customers, or cannot be resolved within 1 business day.\n\n### Tier 3 Support (Engineering)\n**Handles:**\n- Critical system failures\n- Code-level issues\n- Data recovery\n- Security incidents\n- Issues requiring product modification\n\n**Resolution Time Target:** Varies based on complexity\n\n**Escalation Trigger:** If issue affects system security, data integrity, or is identified as a major product defect.\n\n### Management Escalation Path\n1. **Support Team Lead**\n   - Customer dissatisfaction with support\n   - Resolution time exceeding targets\n   - Resource conflicts\n\n2. **Support Manager**\n   - SLA violations\n   - Recurring issues\n   - Requested by key accounts\n\n3. **Director of Customer Success**\n   - Contract disputes\n   - Potential financial impact\n   - Reputation risk\n\n4. **VP of Operations**\n   - Critical business impact\n   - Legal implications\n   - Executive customer contacts\n\n### Documentation Requirements\nAll escalations must be thoroughly documented in the support ticket including:\n- Reason for escalation\n- Actions taken\n- Communications with customer\n- Resolution path and timeline\n\nWeekly reports of all escalations are reviewed in the Customer Success team meeting.",
+    "categoryId": "customer-service",
+    "created": "2023-07-05",
+    "updated": "2023-08-20"
+  }
+]

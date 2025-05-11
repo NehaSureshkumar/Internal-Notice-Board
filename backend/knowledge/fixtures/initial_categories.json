@@ -1,0 +1,47 @@
+[
+  {
+    "model": "knowledge.category",
+    "pk": 1,
+    "fields": {
+      "name": "Policies",
+      "description": "Company policies and guidelines",
+      "created_at": "2025-04-01T12:00:00Z"
+    }
+  },
+  {
+    "model": "knowledge.category",
+    "pk": 2,
+    "fields": {
+      "name": "Procedures",
+      "description": "Step-by-step guides and procedures",
+      "created_at": "2025-04-01T12:00:00Z"
+    }
+  },
+  {
+    "model": "knowledge.category",
+    "pk": 3,
+    "fields": {
+      "name": "Resources",
+      "description": "Useful resources and references",
+      "created_at": "2025-04-01T12:00:00Z"
+    }
+  },
+  {
+    "model": "knowledge.category",
+    "pk": 4,
+    "fields": {
+      "name": "Technical",
+      "description": "Technical documentation and guides",
+      "created_at": "2025-04-01T12:00:00Z"
+    }
+  },
+  {
+    "model": "knowledge.category",
+    "pk": 5,
+    "fields": {
+      "name": "General",
+      "description": "General information and announcements",
+      "created_at": "2025-04-01T12:00:00Z"
+    }
+  }
+]

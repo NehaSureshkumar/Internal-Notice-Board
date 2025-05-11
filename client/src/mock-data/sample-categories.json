@@ -1,0 +1,52 @@
+[
+  {
+    "id": "hr",
+    "name": "HR & Policies",
+    "icon": "ri-group-line"
+  },
+  {
+    "id": "tech",
+    "name": "Technology",
+    "icon": "ri-computer-line"
+  },
+  {
+    "id": "finance",
+    "name": "Finance",
+    "icon": "ri-money-dollar-box-line"
+  },
+  {
+    "id": "operations",
+    "name": "Operations",
+    "icon": "ri-settings-line"
+  },
+  {
+    "id": "marketing",
+    "name": "Marketing",
+    "icon": "ri-megaphone-line"
+  },
+  {
+    "id": "sales",
+    "name": "Sales",
+    "icon": "ri-line-chart-line"
+  },
+  {
+    "id": "legal",
+    "name": "Legal",
+    "icon": "ri-scales-3-line"
+  },
+  {
+    "id": "product",
+    "name": "Product",
+    "icon": "ri-box-3-line"
+  },
+  {
+    "id": "research",
+    "name": "Research & Development",
+    "icon": "ri-flask-line"
+  },
+  {
+    "id": "customer-service",
+    "name": "Customer Service",
+    "icon": "ri-customer-service-2-line"
+  }
+]
