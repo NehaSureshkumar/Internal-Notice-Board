@@ -1,4 +1,4 @@
-# Internal Knowledge Hub  
+# Internal notice board and Knowledge Hub  
 
 ## Overview  
 A centralized platform for managing organizational notices, knowledge articles, and resources. Built with React, TypeScript, Django REST Framework, and SQL Server.  
